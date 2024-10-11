@@ -188,6 +188,15 @@ Signature for message 'nishat': (r, s) = (8, 5)
 The signature for message 'nishat' is valid.
 ```
 
+### 2. Secure Hash Algorithm 512-bit (SHA-512)
+The SHA-512 (Secure Hash Algorithm 512-bit) is a cryptographic hash function designed to take an input and produce a 512-bit (64-byte) hash value, ensuring the integrity of the input data.
+- **Code**: [See the code](https://github.com/nishatrhythm/Cryptography-and-Information-Security-Lab/blob/main/SHA512.py)
+- **Output**:
+```
+Original Message: This is a test message for SHA-512
+SHA-512 hash of the predefined string: 9440af2a41a3ebb65de4f8bb75a2b50b66bb11bd677b5fc3cc431a804b449a751454b7adaeaf1a230a1eb358e4239e27dd64c272f5854a18c9f21f881eaaeb90
+```
+
 ---
 
 ## How to Run
